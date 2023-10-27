@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=UniVPN
+Comment=Leagsoft UniVPN 
+Exec=/usr/local/UniVPN/UniVPN
+Path=/usr/local/UniVPN
+Icon=/usr/local/UniVPN/image/ICON.ico
+Terminal=false
+Type=Application
+Categories=Application;Network;
+Name[zh_CN]=UniVPN
+Comment[zh_CN]=Leagsoft UniVPN
